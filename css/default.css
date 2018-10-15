@@ -3,5 +3,7 @@ body{
 }
 
 #main{
-  
+  padding: 40px 70px;
+  border: green 1px solid;
+  background-color: white;
 }
