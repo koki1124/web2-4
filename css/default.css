@@ -18,6 +18,6 @@ body{
 .picture:after
 {
   content:"";
-  clear:both;
+  clear;
   display:block;
 }
