@@ -27,3 +27,18 @@ body{
   -webkit-appearance: none;
   margin: 5px;
 }
+
+.btn:hover
+{
+  opacity:0.7;
+}
+
+.btn-submit
+{
+  background-color: silver;
+}
+
+.btn-reset
+{
+  background-color:lightcoral;
+}
