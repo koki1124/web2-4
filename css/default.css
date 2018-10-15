@@ -21,3 +21,9 @@ body{
   clear:both;
   display:block;
 }
+
+.btn
+{
+  -webkit-appearance: none;
+  margin: 5px;
+}
